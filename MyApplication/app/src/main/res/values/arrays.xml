@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="test_case_array">
+        <item>ThreadPoolExecutor</item>
+        <item>Executor static</item>
+    </array>
+</resources>
